@@ -1,4 +1,11 @@
 {
+    "rewrites": [
+        {
+            "source": "/(.*)", "destionation": "/"
+        }
+    ]
+}
+{
     "version": 2 ,
     "builds": [
         {
